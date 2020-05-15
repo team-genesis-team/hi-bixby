@@ -1,0 +1,15 @@
+
+discord.py
+discord.py[voice]
+urllib3
+bs4
+youtube_dl
+requests
+captcha
+pathlib
+pyNaCl
+PyPI
+pip
+youtube_dl
+colorlog
+asyncio
